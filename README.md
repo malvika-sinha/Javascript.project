@@ -1,2 +1,2 @@
 # Javascript.project
-Clock in IST
+Clock on IST
